@@ -61,8 +61,7 @@ A **full-stack web application** built with `React.js`, `Django`, and `MySQL`.
 ---
 
 ### 🤝 Let's Connect!
-- 📧 Email: [pravalikbatchu14@gmail.com](mailto:pravalikbatchu14@gmail.com)  
-- 📱 Phone: [+91-8309595272](tel:+918309595272)  
+- 📧 Email: [pravalikbatchu14@gmail.com](mailto:pravalikbatchu14@gmail.com) 
 - 🔗 LinkedIn: [Pravalika Batchu](https://www.linkedin.com/in/pravalika-batchu/)  
 - 🐙 GitHub: [Pravalika-Batchu](https://github.com/Pravalika-Batchu)
 

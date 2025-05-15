@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pravalika Batchu</h1>
 
 <p align="center">
-B.Tech CSE | 🚀 Open Source Contributor | GSoC 2025 Aspirant  
+B.Tech CSE | 🚀 Open Source Contributor 
 </p>
 
 ---
@@ -11,12 +11,10 @@ I am a **motivated and passionate Computer Science Engineering student** from Va
 I’m deeply interested in **coding**, **technology**, and solving **real-world problems** through innovative software solutions.
 
 I’m on an exciting journey towards becoming a **skilled software developer**, with a focus on **Open Source Contributions**.  
-Currently preparing for **Google Summer of Code (GSoC) 2025**, and actively working on expanding my skills and contributing to impactful projects.
 
 ---
 
 ### 🚀 Current Focus
-- 🔥 Preparing and contributing to **GSoC 2025**
 - 🌍 Exploring **Open Source** opportunities to make a difference  
 - 💡 Enhancing my skills in **Web Development**, **Data Science**, and **AI/ML**
 - 💻 Learning **Django**, **NextJS**, and contributing to **ReactJS** and **Python** projects
